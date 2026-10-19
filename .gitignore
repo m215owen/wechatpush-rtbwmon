@@ -1,0 +1,9 @@
+# 备份 / 临时文件
+*.bak
+*.bak.*
+*.orig
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
